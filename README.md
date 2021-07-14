@@ -1,4 +1,4 @@
-# technical analysis screener for bearish/bullish engulfing 🕯️
+# technical analysis screener for bearish/bullish engulfing candlestick patterns 🕯️
 
 a technical analysis screener that excavates through the top 50 cryptocurrencies by market cap and identifies the bearish and bullish engulfing patterns within the last 3 days. 
 
